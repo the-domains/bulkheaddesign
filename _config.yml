@@ -1,0 +1,28 @@
+name: Bulkheaddesign
+favicon: null
+layout_spectrum: 0.2734284261241555
+typography_spectrum: 0.4694854808039963
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9285339813213795
+  lightness: 0.11997399246320128
+  saturation: 0.37202815525233746
+  rhythmicContrast: 0.037807486252859235
+purpose: []
