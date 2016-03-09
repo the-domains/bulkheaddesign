@@ -1,7 +1,7 @@
 name: Bulkheaddesign
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.31023
+typography_spectrum: 0.07371
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#0cafad'
   brandStrength: 1
   lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
